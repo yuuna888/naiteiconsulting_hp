@@ -1,0 +1,562 @@
+@charset "UTF-8";
+@import "../../css/style.scss";
+
+/* 年表 */
+.chronology {
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px 50px 30px;
+  &.chronology1,&.chronology2{
+    margin-bottom: 50px;
+  }
+  .middle-container{
+    .band-title {
+      background-image: linear-gradient(90deg, #CAE1F2, #CAE5F9);
+      padding: 20px 0px;
+      color: #334A56;
+      border-radius: 5px;
+      position: relative; 
+      padding: 20px 0px;
+      color: #334A56;
+      overflow: hidden; 
+      &::before {
+        position: absolute;
+        font-size: 60px;
+        font-weight: bold;
+        color: rgb(255, 255, 255); 
+        top: 50%;
+        left: 5%;
+        transform: translate(-50%, -50%);
+        z-index: 0;
+        pointer-events: none;
+        white-space: nowrap;
+      }
+      h3{
+        font-size: 25px;
+        position: relative;
+        z-index: 1
+      }
+    }
+    .chronology-flex{
+      display: flex;
+      gap: 40px;
+      margin-bottom: 40px;
+      img{
+        max-width: 180px;
+        height: 180px;
+      }
+      .introduction{
+        flex: 1;
+        .title{
+        font-size: 25px;
+         color: #334A56;
+         border-bottom: 2px solid #0170BF;
+         text-align: left;
+         padding-bottom: 5px;
+         margin-bottom: 25px;
+        }
+        .introduction-flex{
+          display: flex;
+          margin-bottom: 20px;
+          .flex{
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            .tag{
+              font-size: 16px;
+              color: #334A56;
+              font-weight: bold;
+              text-align: center;
+              padding: 5px 15px;
+              background-color: #DFEAF8;
+            }
+            .descriptor{
+              font-size: 18px;
+              color: #334A56;
+              margin-right: 20px;
+              font-weight: 100;
+            }
+          }
+        }
+      } 
+    }
+  }
+}
+
+.chronology1{
+  .middle-container{
+    .band-title {
+      &::before {
+        content: "01";
+      }
+    }
+  }
+}
+.chronology2{
+  .middle-container{
+    .band-title {
+      &::before {
+        content: "02";
+      }
+    }
+  }
+}
+.chronology3{
+  .middle-container{
+    .band-title {
+      &::before {
+        content: "03";
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .chronology {
+    padding: 40px 20px 10px;
+    &.chronology1,&.chronology2{
+      margin-bottom: 40px;
+    }
+    .middle-container{
+      max-width: 100%;
+      .band-title {
+        padding: 15px 0px;
+        &::before {
+          font-size: 70px;
+          left: 10%;
+        }
+        h3{
+          font-size: 20px;
+          position: relative;
+          z-index: 1
+        }
+      }
+      
+      .chronology-flex{
+        gap: 10px;
+        margin-bottom: 30px;
+        img{
+          max-width: 25vw;
+          height: 25vw;
+        }
+        .introduction{
+          .title{
+          font-size: 20px;
+           padding-bottom: 3px;
+           margin-bottom: 15px;
+          }
+          .introduction-flex{
+            display: block;
+            margin-bottom: 20px;
+            .flex{
+              gap: 10px;
+              .tag{
+                font-size: 14px;
+                text-align: center;
+                padding: 5px 0px;
+                width: 20vw;
+                margin-bottom: 5px;
+              }
+              .descriptor{
+                font-size: 16px;
+                margin-right: 0px;
+              }
+            }
+          }
+        } 
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .chronology {
+    padding: 30px 15px 10px;
+    &.chronology1,&.chronology2{
+      margin-bottom: 30px;
+    }
+    .middle-container{
+      .band-title {
+        &::before {
+          font-size: 60px;
+        }
+      }
+      .chronology-flex{
+        margin-bottom: 20px;
+        .introduction{
+          .title{
+          font-size: 16px;
+          }
+          .introduction-flex{
+            margin-bottom: 15px;
+            .flex{
+              gap: 5px;
+              .descriptor{
+                font-size: 14px;
+              }
+            }
+          }
+        } 
+      }
+    }
+  }
+}
+
+.bullet{
+  display: flex;
+  gap: 15px;
+  ul li {
+  position: relative;
+  margin-left: 20px;
+  margin-bottom: 5px;
+  font-size: 18px;
+  color: #334A56;
+  }
+  ul li:last-child {
+  margin-bottom: 0;
+  }
+  ul li::before {
+    position: absolute;
+    content: "";
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #0170BF;
+    top: 13px;
+    left: -20px;
+    transform: translateY(-50%);
+  }
+}
+@include sp{
+  .bullet{
+    display: block;
+    ul li {
+    margin-bottom: 0px;
+    font-size: 16px;
+    margin-left: -20vw;
+    }
+    ul li:last-child {
+    margin-bottom: 0;
+    }
+    ul li::before {
+      width: 6px;
+      height: 6px;
+      left: -20px;
+    }
+  }
+}
+
+/* 年表 */
+
+
+
+/* 内定実績一覧 */
+.qa01 {
+  .aco .content-q {
+    background-color: #0170BF;
+    color: white;
+
+    .aco-content-right p {
+      text-align: center;
+    }
+
+    &.q::before {
+      color: #ffffff;
+    }
+  }
+
+  .aco-content {
+    display: block;
+    align-items: center;
+  }
+
+  .aco .content-a {
+    padding: 1px;
+    background-color: #CAD4D9;
+    margin-top: 20px;
+  }
+}
+
+.aco-content.a {
+  .table1 {
+    background-color: white;
+  }
+  .table2 {
+    background-color: #F7F7F7;
+  }
+  .industry {
+    max-width: 200px;
+  }
+  .university {
+    max-width: 150px;
+  }
+  .companys {
+    padding: 5px 20px;
+    flex: 1;
+    font-size: 14px;
+  }
+  p {
+    font-size: 14px;
+    text-align: center;
+    padding: 0px;
+  }
+  div {
+    background-color: #EDEFF0;
+    flex: 1;
+    border-right: 1px solid #CAD4D9;
+  }
+}
+@include sp{
+  .aco-content.a {
+    div {
+      flex: unset;
+    }
+    .industry {
+      width: 20vw;
+      flex: 0 0 20vw;
+      padding: 5px 5px;
+    }
+    .university {
+      width: 28vw;
+      flex: 0 0 28vw;
+      padding: 0;
+    }
+    .companys,.company-label {
+      flex: 1;
+      font-size: 12px;
+    }
+    .companys {
+      padding: 3px 5px;
+    }
+    p {
+      font-size: 12px;
+    }
+  }
+}
+@media screen and (max-width: 395px) {
+  .qa01 {
+    .aco .content-q {
+      .aco-content-right p {
+        margin-right: 15px;
+      }
+    }
+  }
+}
+/* 内定実績一覧 */
+
+
+
+/* カルーセル3枚ver. */
+.cal3 {
+  .line-swiper {
+    .swiper {
+      width: 100%;
+      padding-bottom: 60px;
+      .swiper-wrapper {
+        .swiper-slide {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
+          position: relative; /* z-index効かせるため必須 */
+          z-index: 1; 
+
+          transition: transform 0.5s ease, opacity 0.5s ease;
+          transform: scale(0.5);  // 全スライド縮小気味
+          opacity: 0.5;           // 半透明
+        }
+
+        // 中央スライドは拡大＆不透明
+        .swiper-slide-active {
+          transform: scale(1);
+          opacity: 1;
+          z-index: 10;  /* 中央スライドは手前に */
+        }
+      }
+
+      // ナビボタンの矢印デザイン
+      .swiper-button-next {
+        margin-right: -13px;
+        &:after {
+          content: "";
+          width: 0;
+          height: 0;
+          border-style: solid;
+          border-width: 13px 0 13px 23px;
+          border-color: transparent transparent transparent #00AECF;
+        }
+      }
+
+      .swiper-button-prev {
+        margin-left: -13px;
+      }
+    }
+
+    img {
+      display: block;
+      width: 500px;
+      height: 552px;
+      object-fit: cover;
+      transition: 0.5s;
+    }
+
+    @include sp {
+      img {
+        width: 70vw;
+        height: 80vw;
+        transform: scale(1);
+      }
+    }
+  }
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+  width: 45px;
+  height: 110px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 40%;
+}
+@include sp{
+  .swiper-button-prev,
+  .swiper-button-next {
+    width: 25px;
+    height: 70px;
+  }
+}
+.swiper-button-prev {
+  background-image: url("../../img/arrow2.png");
+  left: 10px;
+}
+.swiper-button-next {
+  background-image: url("../../img/arrow1.png"); 
+  right: 10px; 
+}
+/* Swiperのデフォルト矢印を消す */
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  display: none;
+}
+.swiper-pagination {
+  position: absolute; // ← これがデフォルト
+  bottom: -20px;      // ← ここで下に移動できる！
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+}
+/* カルーセル3枚ver. */
+
+
+
+/* 内定までの流れ. */
+.qa01 {
+  .aco {
+    .content-q.q-up {
+      position: relative;
+      cursor: pointer;
+      max-width: 500px;
+      margin: auto;
+      &::before {
+        content: "";
+        position: absolute;
+        top: 50%;
+        right: 30px;
+        transform: translateY(-50%) rotate(0deg);
+        transition: transform 0.5s ease;
+        border-style: solid;
+        border-width: 15px 10px 0 10px;
+        border-color: #ffffff transparent transparent transparent;
+      }
+
+      &.close::before {
+        transform: translateY(-50%) rotate(180deg); // 下向き→上向きに回転
+      }
+    }
+  }
+}
+.qa01 {
+  .aco {
+    .content-a.a-up{
+      padding: 0;
+      background-color: white;
+      img {
+        width: 100%;
+        height: auto;
+        display: block;
+        margin: 0 auto 30px; 
+      }
+    }
+  }
+}
+@media screen and (max-width: 321px) {
+  .qa01 {
+    .aco {
+      .content-q.q-up {
+        &::before {
+          border-width: 10px 8px 0 8px;
+        }
+      }
+    }
+  }
+}
+
+.company-row {
+  display: flex;
+  align-items: stretch;
+}
+.company-row > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.company-row .companys {
+  text-align: left;
+  justify-content: flex-start;
+  padding-left: 15px;
+}
+/* 内定までの流れ. */
+
+/* 一覧. */
+.aco-block.open {
+  .content-a {
+    display: block !important; // ← JSで display:none が上書きされないように
+  }
+
+  .content-q::after {
+    transform: rotate(180deg); // ▼→▲ など矢印があるなら開いてる状態に
+  }
+}
+.aco-block.open .a {
+  display: block;
+}
+/* 一覧. */
+
+.vertical-dots {
+  display: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.vertical-dots span {
+  width: 8px;
+  height: 8px;
+  background-color: #fff;
+  border-radius: 50%;
+}
+
+.free-consultation {
+  .title {
+    background-image: url(../../img/consulting.png), url(../../img/students.png);
+  }
+  &.consultation-for-parents .title {
+    background-image: url(../../img/consulting2.png), url(../../img/guardian.png);
+  }
+}

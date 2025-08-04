@@ -1,0 +1,186 @@
+@charset "UTF-8";
+.single-section {
+  padding-top: 60px;
+}
+
+.article {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 30px;
+  border: #0171BF 1px solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 40px 0px;
+}
+
+.article img {
+  max-width: 300px;
+}
+
+.white-title {
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.white-title h2 {
+  font-size: 20px;
+  text-align: left;
+  color: #0171BF;
+  text-decoration: none;
+}
+
+.ellipsis {
+  display: -webkit-box;
+  /* Flexbox的な表示に */
+  -webkit-line-clamp: 3;
+  /* 行数を指定（ここで2行） */
+  -webkit-box-orient: vertical;
+  /* 縦方向に並べる */
+  overflow: hidden;
+  /* はみ出しを隠す */
+}
+
+.ellipsis p {
+  font-size: 16px;
+}
+
+@media screen and (max-width: 540px) {
+  .ellipsis p {
+    font-size: 15px;
+  }
+  .single-section {
+    padding-top: 50px;
+  }
+  .article {
+    display: block;
+    padding: 30px 0px;
+  }
+  .article img {
+    max-width: 500px;
+  }
+  .white-title {
+    margin: 30px 0 20px;
+    padding: 15px;
+  }
+  .white-title h2 {
+    font-size: 18px;
+    line-height: 1.5em;
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .article {
+    padding: 30px 0px;
+  }
+  .white-title {
+    margin: 30px 0 15px;
+  }
+  .white-title h2 {
+    font-size: 16px;
+  }
+  .ellipsis p {
+    font-size: 14px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.free-consultation .title {
+  background-image: url(../../img/consulting.png), url(../../img/students.png);
+}
+
+.free-consultation.consultation-for-parents .title {
+  background-image: url(../../img/consulting2.png), url(../../img/guardian.png);
+}
+
+.custom-pagination {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 40px;
+}
+
+.custom-pagination ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.custom-pagination li a,
+.custom-pagination li span {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 50px;
+  height: 50px;
+  background-color: #0070BF;
+  color: #fff;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 50%;
+  text-decoration: none;
+  -webkit-transition: 0.3s ease;
+  transition: 0.3s ease;
+}
+
+.custom-pagination li span.current {
+  background-color: #7EB5DF;
+  color: #0070BF;
+  border: none;
+}
+
+.custom-pagination li a:hover {
+  opacity: 0.8;
+}
+
+.custom-pagination li a.prev,
+.custom-pagination li a.next {
+  width: auto;
+  height: auto;
+  background: none;
+  color: #0070BF;
+  font-size: 25px;
+  border-radius: 0;
+  padding: 0 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .custom-pagination li a,
+  .custom-pagination li span {
+    width: 35px;
+    height: 35px;
+    font-size: 14px;
+  }
+  .custom-pagination li span.current {
+    background-color: #7EB5DF;
+    color: #0070BF;
+  }
+  .custom-pagination li a.prev,
+  .custom-pagination li a.next {
+    font-size: 20px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

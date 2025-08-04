@@ -1,0 +1,134 @@
+@charset "UTF-8";
+@import "../../css/style.scss";
+
+.white-title {
+  background-color: white;
+  border-radius: 5px;
+  padding: 20px;
+  margin: 50px 0 30px;
+
+  h2 {
+    font-size: 25px;
+    text-align: left;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .white-title {
+    margin: 40px 0 20px;
+
+    h2 {
+      font-size: 18px;
+    }
+  }
+}
+
+.numbered-list {
+  counter-reset: section;
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    counter-increment: section;
+    position: relative;
+    padding-left: 2em;
+    font-size: 18px;
+
+    &::before {
+      content: counter(section) ". ";
+      position: absolute;
+      left: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .numbered-list li {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .numbered-list li {
+    font-size: 15px;
+  }
+}
+
+/* 共通設定 */
+
+.custom-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+
+  > li {
+    position: relative;
+    padding-left: 2em;
+    margin-bottom: 0.5em;
+  }
+
+  &.number {
+    counter-reset: number;
+
+    > li {
+      counter-increment: number;
+      font-size: 18px;
+
+      &::before {
+        content: counter(number) ".";
+        position: absolute;
+        left: 0;
+      }
+    }
+  }
+
+  &.alpha {
+    counter-reset: alpha;
+    margin-top: 0.5em;
+
+    > li {
+      counter-increment: alpha;
+
+      &::before {
+        content: counter(alpha, lower-alpha) ".";
+        position: absolute;
+        left: 0;
+      }
+    }
+  }
+
+  &.roman {
+    counter-reset: roman;
+    margin-top: 0.5em;
+
+    > li {
+      counter-increment: roman;
+
+      &::before {
+        content: counter(roman, lower-roman) ".";
+        position: absolute;
+        left: 0;
+      }
+    }
+  }
+}
+
+/* 共通のリスト項目スタイル */
+
+/* 数字リスト（1. 2. 3.） */
+
+@media screen and (max-width: 540px) {
+  .custom-list.number > li {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .custom-list.number > li {
+    font-size: 15px;
+  }
+}
+
+/* アルファベットリスト（a. b. c.） */
+
+/* ローマ数字リスト（i. ii. iii.） */

@@ -1,0 +1,330 @@
+@charset "UTF-8";
+@import "../../css/style.scss";
+
+/* 例 */
+.ex {
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.25);
+  border-radius: 10px;
+  padding: 20px;
+  align-items: center;
+  margin: 10px 0px;
+  @include sp{
+    &{
+      padding: 15px;
+    }
+    p{
+      text-align: left;
+      margin: 0;
+    }
+  }
+}
+/* 例 */
+
+
+/* タイトルの調整 */
+@media screen and (max-width: 321px) {
+.bubble-wrapper{
+  .bubble{
+    .bubble-text{
+      h2{
+        font-size: 18px;
+      }
+    }
+  }
+}
+}
+.sub-bubble-wrapper{
+  .bubble-wrapper{
+    margin-bottom: 30px;
+    .bubble{
+      padding: 15px 0;
+      max-width: 350px;
+      .bubble-text{
+        p{
+          font-weight: bold;
+          text-align: center;
+          font-size: 20px;
+        }
+      }
+    }
+  }
+}
+@include sp{
+  .sub-bubble-wrapper{
+    .bubble-wrapper{
+      margin-bottom: 20px;
+      .bubble{
+        padding: 10px 0;
+        max-width: 300px;
+        .bubble-text{
+          p{
+            font-size: 18px;
+          }
+        }
+        .bubble-triangle {
+          border-left: 8px solid transparent;
+          border-right: 8px solid transparent;
+          border-top: 10px solid white;
+          bottom: -10px;
+        }
+        .bubble-triangle-shadow {
+          left: calc(50% - 5px);
+          border-left: 8px solid transparent;
+          border-right: 8px solid transparent;
+          border-top: 10px solid #0170BF;
+          bottom: -15px;
+        }
+      }
+    }
+  }
+}
+
+@include sp{
+  .band-title{
+    h2{
+      font-size: 25px;
+      line-height: 1.3;
+    }
+  }
+}
+
+.small-title{
+  font-size: 25px;
+}
+@include sp{
+  .small-title{
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 321px) {
+  @include sp{
+    .small-title{
+      font-size: 18px;
+    }
+  }
+}
+/* タイトルの調整 */
+
+/* 画像の調整 */
+  .tailor-made-support{
+    max-width: 420px;
+    margin: auto auto 40px;
+  }
+  @include sp{
+    .tailor-made-support{
+      max-width: 300px;
+      margin: auto auto 30px;
+    }
+  }
+/* 画像の調整 */
+
+
+/* タブ追加分調整 */
+.addition {
+  display: flex;
+  align-items: stretch;
+  .details {
+    padding: 10px;
+    p{
+      color: #334A56;
+      font-weight: 100;
+      text-align: left;
+    }
+  }
+
+  .label {
+    width: 100px;
+    background-color: #F2F2F2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+  }
+
+  .label p,
+  .details p {
+    margin: 0;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+
+  .range {
+    background-color: #CAD4D9;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    writing-mode: vertical-rl;
+
+    p {
+      color: #334A56;
+      font-weight: 100;
+      text-align: center;
+    }
+  }
+}
+@media screen and (max-width: 321px) {
+  .addition {
+    display: flex;
+    align-items: stretch;
+    .label {
+      width: 23vw;
+      padding: 0px;
+    }
+    .label p,
+    .details p {
+      font-size: 14px;
+    }
+  }
+}
+/* タブ追加分調整 */
+
+/* プラス */
+.plus-icon {
+  position: relative;
+  width: 35px;
+  height: 35px;
+  margin: 25px auto;
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    background-color: white;
+  }
+  // 横棒
+  &::before {
+    top: 50%;
+    left: 0;
+    width: 100%;
+    height: 6px;
+    transform: translateY(-50%);
+  }
+  // 縦棒
+  &::after {
+    top: 0;
+    left: 50%;
+    width: 6px;
+    height: 100%;
+    transform: translateX(-50%);
+  }
+}
+@include sp{
+  .plus-icon {
+    width: 20px;
+    height: 20px;
+    margin: 20px auto;
+    &::before {
+      height: 4px;
+    }
+    &::after {
+      width: 4px;
+    }
+  }
+}
+/* プラス */
+
+/* 継続サポート */
+.continuation{
+  background-color: white;
+  border-radius: 10px;
+  padding: 50px;
+  p{
+    color: #2C2C2C;
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: 100;
+  }
+  .title{
+    font-size: 25px;
+    color: #0170BF;
+    margin: 0 auto 30px;
+    font-weight: bold;
+  }
+}
+.continuation-flex{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  align-items: stretch;
+  .continuation-contents{
+    border: 1px solid #0170BF;
+    flex: 1;
+    padding: 15px;
+    border-radius: 5px;
+    p{
+      font-size: 20px;
+      color: #0170BF;
+      margin: 0;
+      font-weight: bold;
+    }
+  }
+}
+@include sp{
+  .continuation{
+    padding: 40px 20px;
+    .title{
+      font-size: 23px;
+      margin: 0 auto 20px;
+    }
+  }
+  .continuation-flex{
+    gap: 5px;
+    .continuation-contents{
+      padding: 10px;
+      p{
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+@include sp{
+  .continuation-contents{
+    border: 1px solid #0170BF;
+    flex: 1;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 5px;
+    p{
+      font-size: 16px;
+      color: #0170BF;
+      margin: 0;
+      font-weight: bold;
+    }
+  }
+}
+
+@media screen and (max-width: 321px) {
+  .continuation{
+    padding: 25px 10px;
+    .title{
+      font-size: 20px;
+      margin: 0 auto 15px;
+    }
+  }
+  .continuation-flex{
+    gap: 5px;
+    .continuation-contents{
+      padding: 10px;
+      p{
+        font-size: 15px;
+      }
+    }
+  }
+  .continuation-contents{
+    p{
+      font-size: 15px;
+    }
+  }
+}
+/* 継続サポート */
+
+.free-consultation {
+  .title {
+    background-image: url(../../img/consulting.png), url(../../img/students.png);
+  }
+  &.consultation-for-parents .title {
+    background-image: url(../../img/consulting2.png), url(../../img/guardian.png);
+  }
+}
