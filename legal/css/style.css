@@ -1,0 +1,142 @@
+@charset "UTF-8";
+.legal {
+  padding: 4px;
+  background-color: #C8CDD0;
+  border-radius: 10px;
+}
+
+.legal-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+}
+
+.label {
+  background-color: #F0F0F0;
+  width: 210px;
+  padding: 30px 0px;
+  border: 1px solid #C8CDD0;
+  border-right: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  /* 縦方向中央揃え */
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  /* 横方向中央揃え */
+  text-align: center;
+}
+
+.label p {
+  font-weight: bold;
+  text-align: center;
+}
+
+.data {
+  background-color: white;
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  padding: 30px;
+  border: 1px solid #C8CDD0;
+  border-left: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  /* 縦方向中央揃え */
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  /* 横方向は左寄せ */
+}
+
+@media screen and (max-width: 540px) {
+  .legal {
+    padding: 3px;
+    border-radius: 8px;
+  }
+  .label {
+    background-color: #F0F0F0;
+    width: 110px;
+    padding: 20px 0px;
+  }
+  .data {
+    padding: 20px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .label {
+    width: 100px;
+    padding: 15px 0px;
+  }
+  .data {
+    padding: 15px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .label {
+    width: 90px;
+    padding: 15px 0px;
+  }
+  .data {
+    padding: 15px 10px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  p {
+    font-size: 12px;
+  }
+}
+
+.dot-list {
+  list-style: none;
+  /* デフォルトの「・」を消す */
+  padding-left: 0;
+}
+
+.dot-list li {
+  position: relative;
+  padding-left: 1.5em;
+  font-size: 18px;
+}
+
+.dot-list li::before {
+  content: "・";
+  position: absolute;
+  left: 0;
+  color: #333;
+  font-size: 1em;
+  line-height: 1;
+}
+
+@media screen and (max-width: 540px) {
+  .dot-list li {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  .dot-list li {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .dot-list li {
+    font-size: 12px;
+  }
+}
+/*# sourceMappingURL=style.css.map */

@@ -505,6 +505,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      <div class="container">
       <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/monthly-fee-pc.png" alt="" class="pc section-ss-title-top">
       <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/monthly-fee-sp.png" alt="" class="sp section-ss-title-top">
+      <p class="annotation">※月々の分割金額については、<br class="sp">クレジットカードによって異なる場合があります。</p>
       <div class="plus-icon"></div>
       <div class="continuation">
         <p class="title">継続サポート</p>

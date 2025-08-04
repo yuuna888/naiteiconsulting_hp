@@ -320,6 +320,28 @@
 }
 /* 継続サポート */
 
+.gradation{
+  .annotation{
+    font-size: 14px;
+    text-align: left;
+    margin-top: 5px;
+  }
+}
+@include sp{
+  .gradation{
+    .annotation{
+      font-size: 12px;
+    }
+  }
+}
+@media screen and (max-width: 321px) {
+  .gradation{
+    .annotation{
+      font-size: 10px;
+    }
+  }
+}
+
 .free-consultation {
   .title {
     background-image: url(../../img/consulting.png), url(../../img/students.png);
