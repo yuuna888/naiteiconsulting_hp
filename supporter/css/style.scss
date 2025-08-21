@@ -218,14 +218,24 @@ a{
 /* ポップアップ調整 */
 .video-modal-content {
   padding: 35px 30px 30px;
+  height: 70vh;
+  #modalSupporterImg {
+    max-width: 75vw;   // 横は画面幅の90%まで
+    max-height: 65vh;  // 縦は画面高さの80%まで
+    width: auto;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
 }
 @include sp{
   .video-modal-content {
     max-width: 90%;
     width: auto;
     padding: 15px 10px 10px;
+    height: auto;
     #modalSupporterImg {
-      width: 85vw;
+      width: 80vw;
       height: auto;
       margin: auto;
     }
@@ -255,4 +265,23 @@ a{
   &.consultation-for-parents .title {
     background-image: url(../../img/consulting2.png), url(../../img/guardian.png);
   }
+}
+
+.video-modal-bg {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  background: rgba(0, 0, 0, 0.327);
+  z-index: 1;
+}
+
+.video-modal-content {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 90%;
+  z-index: 2;
 }
