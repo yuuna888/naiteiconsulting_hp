@@ -579,7 +579,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           企業を1から一緒に調べ、<br class="sp">頻出質問を把握した上での回答案の作成や、<br>
           話す練習を一緒に行うことも可能です。
         </p>
-        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSfAZnTQ-IaiyLnxsc1WAkWXDU_lz5bpd031OzXdusgbajyMeySoU61-YnmTfbyVOgsMlrBdnHsa96T/pubhtml?gid=144094309&amp;single=true&amp;widget=true&amp;headers=false" class="section-ss-title-top spreadsheet"></iframe>
+        <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAB9hojsqAwL5Elx00JJD1KFAQ59cX3bh_QNsEQ4HWQAvdjmzIIuBcoOYJqOmFSbQtOhlrXjxUSKsb/pubhtml" class="section-ss-title-top spreadsheet"></iframe>
       </div>
      </section>
 

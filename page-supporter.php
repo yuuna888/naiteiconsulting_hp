@@ -173,7 +173,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
-        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter7-details.png">
+
+        <!-- 
+          <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter7-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter7.png" alt="">
             <div class="supporter-name">
@@ -182,6 +184,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+        
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter8-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter8.png" alt="">
@@ -200,6 +204,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+         <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter10-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter10.png" alt="">
@@ -209,6 +215,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter11-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter11.png" alt="">
@@ -290,6 +298,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+        <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter20-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter20.png" alt="">
@@ -299,6 +309,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+        
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter21-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter21.png" alt="">
@@ -355,6 +367,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+
+        <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter29-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter29.png" alt="">
@@ -364,6 +379,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter30-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter30.png" alt="">
@@ -438,6 +455,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+          <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter39-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter39.png" alt="">
@@ -447,6 +466,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter40-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter40.png" alt="">
@@ -456,6 +477,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+        <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter41-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter41.png" alt="">
@@ -465,6 +488,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+      　-->
+
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter42-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter42.png" alt="">
@@ -503,6 +528,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a>
 
       </div>
+
+      <p class="blue bold center" style="margin-top:50px; text-align: center;">掲載している以外にも<br class="sp">サポーターは在籍しています。</p>
       <div class="free-consultation-margin"></div>
      </section>
 

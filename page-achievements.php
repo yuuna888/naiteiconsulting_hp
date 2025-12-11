@@ -318,6 +318,2681 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
             <div class="qa01">
               <div class="aco">
+
+              <div class="aco-block">
+                    <div class="aco-content q content-q q-down">
+                        <div class="aco-content-right">
+                        <p>2026年卒業生 内定企業一覧</p>
+                        </div>
+                    </div>
+                    <div class="aco-content a content-a">
+                    <div class="company-row">
+                        <div class="industry"><p>業界</p></div>
+                        <div class="university"><p>大学名</p></div>
+                        <div class="company-label"><p>企業名</p></div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>東洋大学</p></div>
+                        <div class="companys table1">千葉銀行、東海東京証券、イオンフィナンシャルグループ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>関西大学</p></div>
+                        <div class="companys table2">日本政策金融公庫、伊予銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>昭和女子大学</p></div>
+                        <div class="companys table1">SMBC日興証券、東京東信用金庫、西武信用金庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>長崎大学</p></div>
+                        <div class="companys table2">イントラスト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">滋賀銀行、京都信用金庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>岡山大学</p></div>
+                        <div class="companys table2">信金中金、三井住友海上、住宅金融支援機構、日本政策金融公庫、あいおいニッセイ同和</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">JMS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>西南学院大学</p></div>
+                        <div class="companys table2">福岡市東部農業協同組合、株式会社山口フィナンシャルグループ、西日本シティ銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>専修大学</p></div>
+                        <div class="companys table1">ジャックス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>学習院大学</p></div>
+                        <div class="companys table2">千葉興業銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">アコム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">JA奈良</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>立教大学</p></div>
+                        <div class="companys table1">かながわ信用金庫、アプラス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>北海学園大学</p></div>
+                        <div class="companys table2">北洋銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>大阪公立大学</p></div>
+                        <div class="companys table1">あいおいニッセイ同和損保</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>京都大学</p></div>
+                        <div class="companys table2">東京海上日動火災保険、三井住友銀行、三井住友海上火災保険、日本生命、三井住友信託銀行、りそな銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">明治安田生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>中央大学</p></div>
+                        <div class="companys table2">千葉銀行、SBI銀行、横浜銀行、りそな銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">千葉銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>愛知大学</p></div>
+                        <div class="companys table2">十六銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">南都銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">紀陽銀行、大阪シティ信金</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">東海東京フィナンシャル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>青山学院大学</p></div>
+                        <div class="companys table2">三井住友信託銀行、ゆうちょ銀行、りそな銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>山口大学</p></div>
+                        <div class="companys table1">東京海上日動火災保険、JCB</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">第一生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">関西みらい銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>藤女子大学</p></div>
+                        <div class="companys table2">日本生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">日興証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>神戸学院大学</p></div>
+                        <div class="companys table2">日本生命、住友生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">東京東信用金庫、芝信用金庫、朝日信用金庫、イオン銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>岡山商科大学</p></div>
+                        <div class="companys table2">中国銀行、いちよし証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>甲南大学</p></div>
+                        <div class="companys table1">但馬銀行、関西みらい銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>関西大学</p></div>
+                        <div class="companys table2">東海東京証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">京葉銀行、ゆうちょ銀行、信金中金</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">第四北越、ほけんの窓口</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>秀明大学</p></div>
+                        <div class="companys table1">茨城信用組合</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">りそな</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">損保ジャパン、富国生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>東京医科歯科大学大学院</p></div>
+                        <div class="companys table2">大和証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">オリエントコーポレーション</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>中央大学</p></div>
+                        <div class="companys table2">足利銀行、東京海上日動</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>津田塾大学</p></div>
+                        <div class="companys table1">富国生命、明治安田生命、ゆうちょ銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>東北芸術工科大学</p></div>
+                        <div class="companys table2">住友生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>山口大学</p></div>
+                        <div class="companys table1">商工中央金庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">しんきん保証基金、千葉県信用共済</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">近畿産業信用組合</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>順天堂大学</p></div>
+                        <div class="companys table2">亀有信用金庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">京都中央信用金庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">日本生命、横浜銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">大和証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>順天堂大学大学院</p></div>
+                        <div class="companys table2">みずほ銀行、東京スター銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">住友生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">日本政策金融公庫、みずほ銀行、きらぼし銀行、大樹生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">琉球銀行、千葉銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>南山大学</p></div>
+                        <div class="companys table2">あいち銀行、名古屋銀行、</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>専修大学</p></div>
+                        <div class="companys table1">UCS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>成蹊大学</p></div>
+                        <div class="companys table2">りそな銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>関西大学</p></div>
+                        <div class="companys table1">保険見直し損保</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>龍谷大学</p></div>
+                        <div class="companys table2">NEXYZ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">滋賀銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>明星大学</p></div>
+                        <div class="companys table2">アイザワ証券、いちよし証券、東洋証券、東京東海証券、岩井コスモ証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">NHS、日本生命、明治安田生命、損保ジャパン、あいおいニッセイ同和損保、リコーリース、三井住友ファイナンスリース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>環太平洋大学</p></div>
+                        <div class="companys table2">岡三証券</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">あいおいニッセイ同和損保</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">ジブラルタ生命</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>神戸大学</p></div>
+                        <div class="companys table1">百十四銀行、損保ジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>専修大学</p></div>
+                        <div class="companys table2">東銀リース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>常磐大学</p></div>
+                        <div class="companys table1">カナモト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>金融</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">三菱HCキャピタル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>金融</p></div>
+                        <div class="university table1"><p>青山学院大学</p></div>
+                        <div class="companys table1">芙蓉総合リース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">豊島</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>獨協大学</p></div>
+                        <div class="companys table1">RYODEN、日本物産</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">JKホールディングス、P&Gプレステージ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>昭和女子大学</p></div>
+                        <div class="companys table1">伊藤忠建材</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>津田塾大学</p></div>
+                        <div class="companys table2">サンリオ、山星屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>玉川大学</p></div>
+                        <div class="companys table1">タイヘイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>愛知学院大学</p></div>
+                        <div class="companys table2">瀧定名古屋、ハニューフーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>群馬大学</p></div>
+                        <div class="companys table1">遠藤科学</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">野里電気工業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>立教大学</p></div>
+                        <div class="companys table1">TATSUMI、三菱商事RtMジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>國學院大学</p></div>
+                        <div class="companys table2">シナネンホールディングス、NX商事</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">柴屋、三共生興</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>大阪大学</p></div>
+                        <div class="companys table2">JA共済連、明治安田生命、三菱UFJ信託銀行</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>京都外国語大学</p></div>
+                        <div class="companys table1">たけびし、KISCO、 CBC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>九州共立大学</p></div>
+                        <div class="companys table2">グリーンクロス、あらた</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>金沢星稜大学</p></div>
+                        <div class="companys table1">NX商事</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>上智大学</p></div>
+                        <div class="companys table2">伊藤忠ケミカルフロンティア、守谷商会、</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>同志社女子大学</p></div>
+                        <div class="companys table1">ニップコーポレーション</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">岩谷産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>山口大学</p></div>
+                        <div class="companys table1">三木産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>順天堂大学</p></div>
+                        <div class="companys table2">三菱ファッション、タキヒョー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">佐藤商事、マルイチ産商</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>南山大学</p></div>
+                        <div class="companys table2">ダリア、エフティコミュニケーションズ、NO,1</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>商社</p></div>
+                        <div class="university table1"><p>大妻女子大学</p></div>
+                        <div class="companys table1">メディセオ、豊通食料</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>商社</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">三井物産プラスチック、住商メタレックス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>広告・マーケティング</p></div>
+                        <div class="university table1"><p>関西外国語大学</p></div>
+                        <div class="companys table1">ネクステージ、博報堂スパイスボックス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>広告・マーケティング</p></div>
+                        <div class="university table2"><p>中央大学</p></div>
+                        <div class="companys table2">メディックス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>広告・マーケティング</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">impact HD</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>広告・マーケティング</p></div>
+                        <div class="university table2"><p>専修大学</p></div>
+                        <div class="companys table2">シャープマーケティング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>広告・マーケティング</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">イプソス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>広告・マーケティング</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">ギミック、全力エージェンシー、トムスエンタテインメント</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>広告・マーケティング</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">マテリアル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>広告・マーケティング</p></div>
+                        <div class="university table2"><p>亜細亜大学</p></div>
+                        <div class="companys table2">faber company</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>印刷・出版</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">中央出版ホールディングス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>印刷・出版</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">TOPPAN</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>韓国放送芸術振興院</p></div>
+                        <div class="companys table1">ハウフルス、えーすてれび</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">アクセンチュア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>上智大学</p></div>
+                        <div class="companys table1">アチーブメントHRソリューションズ、リクルートマネジメントソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>東京都立大学</p></div>
+                        <div class="companys table2">フロンティアコンサルティング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>北里大学</p></div>
+                        <div class="companys table1">HOIC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>津田塾大学</p></div>
+                        <div class="companys table2">船井総研、船井総研ロジ、アクティブアンドカンパニー、プロレドパートナーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>長浜バイオ大学</p></div>
+                        <div class="companys table1">AKKODiSコンサルティング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">大和総研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">ビジョン・コンサルティング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>成城大学</p></div>
+                        <div class="companys table2">NRI</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>桜美林大学</p></div>
+                        <div class="companys table1">HIPUS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">オースビー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>マスコミ</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">INTLOOP</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>マスコミ</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">ビジョン・コンサルティング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>法律事務所</p></div>
+                        <div class="university table1"><p>茨城大学</p></div>
+                        <div class="companys table1">ベリーベスト法律事務所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>法律事務所</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">ベリーベスト法律事務所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>特許事務所</p></div>
+                        <div class="university table1"><p>茨城大学</p></div>
+                        <div class="companys table1">青和特許事務所、創英国際特許法律事務所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>特許事務所</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">青和特許事務所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>関西外国語大学</p></div>
+                        <div class="companys table1">アーキテクトデベロッパー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>愛知学院大学</p></div>
+                        <div class="companys table2">三井不動産リアルティ、住友不動産ステップ、青山メインランド、メイクマイライフ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>長榮大學（台湾）</p></div>
+                        <div class="companys table1">大東建託パートナーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">ゆーみーらいふ、青山メインランド</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>清泉女子大学</p></div>
+                        <div class="companys table1">グッドコムアセット</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>東京経済大学</p></div>
+                        <div class="companys table2">セキスイハイム不動産、住友不動産販売</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>獨協大学</p></div>
+                        <div class="companys table1">東日本地所、ハウスコム、三和住宅</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>武蔵大学</p></div>
+                        <div class="companys table2">日鉄コミュニティ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">日鉄コミュニティ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>近畿大学大学院</p></div>
+                        <div class="companys table2">サンケイビル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>金沢星稜大学</p></div>
+                        <div class="companys table1">プロパティエージェント、エイブル、ハウスコム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>駒沢女子大学</p></div>
+                        <div class="companys table2">三菱地所プロパティマネジメント、第一ビルディング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">フィル・カンパニー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>神奈川大学</p></div>
+                        <div class="companys table2">マークスライフ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">アンビションDXホールディングス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>成蹊大学</p></div>
+                        <div class="companys table2">旭化成不動産、トーセイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>順天堂大学</p></div>
+                        <div class="companys table1">トーシンパートナーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>拓殖大学</p></div>
+                        <div class="companys table2">三井不動産商業マネジメント、第一ビルディング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>津田塾大学</p></div>
+                        <div class="companys table1">大東建託</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>山口大学</p></div>
+                        <div class="companys table2">ジェクトワン、Family、トーシンパートナーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">大東建託リース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>東洋大学</p></div>
+                        <div class="companys table2">アーキテクトディベロッパー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>明星大学</p></div>
+                        <div class="companys table1">大東建託</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>不動産</p></div>
+                        <div class="university table2"><p>環太平洋大学</p></div>
+                        <div class="companys table2">大京アステージ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>不動産</p></div>
+                        <div class="university table1"><p>文京学院大学</p></div>
+                        <div class="companys table1">"東急リバブル、三菱地所ハウスネット、三菱UFJ不動産"</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>獨協大学</p></div>
+                        <div class="companys table2">一条工務店</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">オープンハウス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>愛知学院大学</p></div>
+                        <div class="companys table2">タマホーム、パナソニックホームズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">東京建物アメニティサポート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>長崎大学</p></div>
+                        <div class="companys table2">TOTOアクアエンジ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>公立鳥取環境大学</p></div>
+                        <div class="companys table1">タマホーム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">オープンハウス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>東京経済大学</p></div>
+                        <div class="companys table1">東京セキスイハイム、オープンハウス、ai工務店</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>日本大学大学院</p></div>
+                        <div class="companys table2">住友林業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">一条工務店</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>東京工科大学</p></div>
+                        <div class="companys table2">メッドコミュニケーションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>住宅</p></div>
+                        <div class="university table1"><p>日本体育大学</p></div>
+                        <div class="companys table1">藤和ハウス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>住宅</p></div>
+                        <div class="university table2"><p>福井県立大学</p></div>
+                        <div class="companys table2">東リ、サンゲツ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>関西大学</p></div>
+                        <div class="companys table1">奥村組</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>群馬大学</p></div>
+                        <div class="companys table2">大成設備、若築建設、みらい建設工業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>兵庫県立大学</p></div>
+                        <div class="companys table1">きんでん</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>工学院大学</p></div>
+                        <div class="companys table2">昭和</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>日本大学大学院</p></div>
+                        <div class="companys table1">アイサワ工業、タカヤ、佐藤工業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>近畿大学大学院</p></div>
+                        <div class="companys table2">鹿島建設</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>大阪公立大学大学院</p></div>
+                        <div class="companys table1">JFEエンジニアリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>高知工科大学</p></div>
+                        <div class="companys table2">フクヤ建設</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">日本電設</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>秋田大学</p></div>
+                        <div class="companys table2">新日本空調</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>大妻女子大学</p></div>
+                        <div class="companys table1">アクティオ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>名城大学</p></div>
+                        <div class="companys table2">日建</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>建設</p></div>
+                        <div class="university table1"><p>東海大学大学院</p></div>
+                        <div class="companys table1">日本ミクニヤ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>建設</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">三菱ケミカルエンジニアリング、UBE三菱セメント、東芝プラントシステム、カナデビア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>ホテル</p></div>
+                        <div class="university table1"><p>関西外国語大学</p></div>
+                        <div class="companys table1">ヒルトンジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>ホテル</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">アパホテル、星野リゾート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>ホテル</p></div>
+                        <div class="university table1"><p>東洋大学</p></div>
+                        <div class="companys table1">東急リゾート＆ステイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>ホテル</p></div>
+                        <div class="university table2"><p>東京女子大学</p></div>
+                        <div class="companys table2">かいげつ、バリューマネジメント</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>ホテル</p></div>
+                        <div class="university table1"><p>北九州市立大学</p></div>
+                        <div class="companys table1">フォーシーズンズ、オークラニッコー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>ホテル</p></div>
+                        <div class="university table2"><p>京都外国語大学</p></div>
+                        <div class="companys table2">東急リゾーツ＆ステイ 箱根エリア、西村屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>ホテル</p></div>
+                        <div class="university table1"><p>駒沢女子大学</p></div>
+                        <div class="companys table1">三井不動産ホテルマネジメント</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>ホテル</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">ウェステティンホテル大阪、ロイヤルクラシック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>ホテル</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">アパホテル、リゾートトラスト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>ホテル</p></div>
+                        <div class="university table2"><p>梅光学院大学</p></div>
+                        <div class="companys table2">門司港ホテル、星野リゾート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アミューズメント</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">ソユー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>アミューズメント</p></div>
+                        <div class="university table2"><p>北海学園大学</p></div>
+                        <div class="companys table2">新和グループ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アミューズメント</p></div>
+                        <div class="university table1"><p>四国大学</p></div>
+                        <div class="companys table1">ラウンドワン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>アミューズメント</p></div>
+                        <div class="university table2"><p>東北芸術工科大学</p></div>
+                        <div class="companys table2">NEXUS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>エンタメ</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">サミー、バンダイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>エンタメ</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">メッセ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>エンタメ</p></div>
+                        <div class="university table1"><p>獨協大学</p></div>
+                        <div class="companys table1">cro</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>エンタメ</p></div>
+                        <div class="university table2"><p>東京工科大学</p></div>
+                        <div class="companys table2">メッセ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>エンタメ</p></div>
+                        <div class="university table1"><p>滋賀大学</p></div>
+                        <div class="companys table1">SNK</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>観光</p></div>
+                        <div class="university table2"><p>東洋大学</p></div>
+                        <div class="companys table2">阪急交通社</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>化学</p></div>
+                        <div class="university table1"><p>関西大学大学院</p></div>
+                        <div class="companys table1">荒川化学工業、ダイキン、東ソー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>化学</p></div>
+                        <div class="university table2"><p>宮崎大学大学院</p></div>
+                        <div class="companys table2">伊勢化学工業、ノリタケ、王子キノクロス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>化学</p></div>
+                        <div class="university table1"><p>近畿大学大学院</p></div>
+                        <div class="companys table1">エア・ウォーター</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>化学</p></div>
+                        <div class="university table2"><p>山口大学</p></div>
+                        <div class="companys table2">日華化学、高砂工業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>化学</p></div>
+                        <div class="university table1"><p>徳島大学</p></div>
+                        <div class="companys table1">新日本理化</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>化学</p></div>
+                        <div class="university table2"><p>東京科学大学</p></div>
+                        <div class="companys table2">三菱ケミカル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>医療・製薬</p></div>
+                        <div class="university table1"><p>関西大学大学院</p></div>
+                        <div class="companys table1">田辺三菱製薬</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>医療・製薬</p></div>
+                        <div class="university table2"><p>明治薬科大学</p></div>
+                        <div class="companys table2">三笠製薬</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>医療・製薬</p></div>
+                        <div class="university table1"><p>徳島大学</p></div>
+                        <div class="companys table1">奥野製薬工業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>医療・製薬</p></div>
+                        <div class="university table2"><p>東北公益文化大学</p></div>
+                        <div class="companys table2">日新製薬</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>医療・製薬</p></div>
+                        <div class="university table1"><p>徳島大学</p></div>
+                        <div class="companys table1">大塚製薬</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>医療・製薬</p></div>
+                        <div class="university table2"><p>法政大学</p></div>
+                        <div class="companys table2">血液製剤機構</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>化粧品</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">ファンケル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>介護・福祉</p></div>
+                        <div class="university table2"><p>桃山学院大学</p></div>
+                        <div class="companys table2">ツクイ、社会福祉法人大阪府社会福祉事業団</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>自動車販売</p></div>
+                        <div class="university table1"><p>桃山学院大学</p></div>
+                        <div class="companys table1">南海カローラ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>自動車販売</p></div>
+                        <div class="university table2"><p>摂南大学</p></div>
+                        <div class="companys table2">ネッツトヨタゾナ神戸</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>自動車販売</p></div>
+                        <div class="university table1"><p>西日本工業大学</p></div>
+                        <div class="companys table1">日産自動車九州</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>自動車販売</p></div>
+                        <div class="university table2"><p>帝京大学</p></div>
+                        <div class="companys table2">埼玉ダイハツ販売、埼玉スバル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>自動車販売</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">ネクステージ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>専修大学</p></div>
+                        <div class="companys table2">オムロン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">パナソニック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>法政大学</p></div>
+                        <div class="companys table2">ブラザー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>北里大学大学院</p></div>
+                        <div class="companys table1">八光グループ、メディアグループ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>青山学院大学</p></div>
+                        <div class="companys table2">三菱電機</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>南山大学</p></div>
+                        <div class="companys table1">パナソニック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>下関市立大学</p></div>
+                        <div class="companys table2">アズビル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>金城学院大学</p></div>
+                        <div class="companys table1">岐阜精機</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">NTN</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>金沢星稜大学</p></div>
+                        <div class="companys table1">NTN</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>学習院大学</p></div>
+                        <div class="companys table2">セントラルエンジニアリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">セイコーエプソン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">日立製作所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>愛知工業大学</p></div>
+                        <div class="companys table1">マイクロンメモリジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>神戸大学</p></div>
+                        <div class="companys table2">セイコーエプソン、富士通ゼネラル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table1"><p>東洋大学</p></div>
+                        <div class="companys table1">東洋熱工業、ルネサスエレクトロニクス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>半導体・電子・電気機器・精密機器</p></div>
+                        <div class="university table2"><p>東京農工大博士前期</p></div>
+                        <div class="companys table2">大気社、森精機</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">ファミリーマート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>明海大学</p></div>
+                        <div class="companys table2">ヤオコー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">イオンリテール</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>長榮大學（台湾）</p></div>
+                        <div class="companys table2">ニトリ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">マツモトキヨシ、ウェルシア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">ニトリ、高島屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">サンベルクス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>東洋大学</p></div>
+                        <div class="companys table2">セブンイレブン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>西南学院大学</p></div>
+                        <div class="companys table1">イオン九州</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>関西大学</p></div>
+                        <div class="companys table2">青山商事、サンドラッグ、クスリのアオキ、ジェイアール西日本伊勢丹、大丸松坂屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>徳島大学</p></div>
+                        <div class="companys table1">ゲンキー、ロピア、ベルパーク</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>明治薬科大学</p></div>
+                        <div class="companys table2">Tomod's</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">ココカラファイン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>山口大学</p></div>
+                        <div class="companys table2">ニトリ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>神奈川大学</p></div>
+                        <div class="companys table1">羽田エアポートエンタープライズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>東京未来大学</p></div>
+                        <div class="companys table2">クオール薬局</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>関西外国語大学</p></div>
+                        <div class="companys table1">カインズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>大谷大学</p></div>
+                        <div class="companys table2">ドラッグユタカ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>大正大学</p></div>
+                        <div class="companys table1">ヤオコー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">ゲンキー、アエナ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>國學院大学</p></div>
+                        <div class="companys table1">ニトリ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>日本女子大学</p></div>
+                        <div class="companys table2">良品計画</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">セブンイレブン、クスリのアオキ、ゲンキー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>帝京大学</p></div>
+                        <div class="companys table2">ドン・キホーテ、マミーマート、オオゼキ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>和歌山大学</p></div>
+                        <div class="companys table1">大阪市民いずみ生協</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>大正大学</p></div>
+                        <div class="companys table2">日本調剤</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">ヨドバシカメラ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>宮城学院女子大学</p></div>
+                        <div class="companys table2">エフ・ディ・シィ・フレンズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>広島大学</p></div>
+                        <div class="companys table1">ゲンキー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>南山大学</p></div>
+                        <div class="companys table2">アインファーマシーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>桜美林大学</p></div>
+                        <div class="companys table1">DCM</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>神戸女学院大学</p></div>
+                        <div class="companys table2">カメラのキタムラ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>小売業</p></div>
+                        <div class="university table1"><p>愛媛大学</p></div>
+                        <div class="companys table1">大屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>小売業</p></div>
+                        <div class="university table2"><p>東京農業大学</p></div>
+                        <div class="companys table2">サンドラッグ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">LIXIL、ヤンマー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">中菱エンジニアリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">豊田自動織機、ジェイテクト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>信州大学大学院</p></div>
+                        <div class="companys table2">アスザック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">MTG</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>近畿大学大学院</p></div>
+                        <div class="companys table2">YKK、デンソーウェーブ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>東海大学</p></div>
+                        <div class="companys table1">PCGテクニカ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>兵庫県立大学</p></div>
+                        <div class="companys table2">スピンドル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>青山学院大学</p></div>
+                        <div class="companys table1">日本精工</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>南山大学</p></div>
+                        <div class="companys table2">ジェイテクト、住友電装、アイシン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>下関市立大学</p></div>
+                        <div class="companys table1">アイリスオーヤマ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>金城学院大学</p></div>
+                        <div class="companys table2">KTX</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>高知工科大学</p></div>
+                        <div class="companys table1">オリバー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">オリバー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>東京都立大学</p></div>
+                        <div class="companys table1">ドウシシャ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>常磐大学</p></div>
+                        <div class="companys table2">トヨタモビリティパーツ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">エレコム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>滋賀大学</p></div>
+                        <div class="companys table2">三五</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>名古屋造形大学</p></div>
+                        <div class="companys table1">サクラパックス、協和ダンボール</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>愛知工業大学</p></div>
+                        <div class="companys table2">豊和工業、大隈技研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">大同特殊鋼</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>東海大学</p></div>
+                        <div class="companys table2">FVジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>名城大学</p></div>
+                        <div class="companys table1">MHIエアロスペース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">日本ビソー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">堀場製作所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>神戸大学</p></div>
+                        <div class="companys table2">コロンビアジャパン、アルペン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>北里大学大学院</p></div>
+                        <div class="companys table1">中部飼料</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>玉川大学</p></div>
+                        <div class="companys table2">島村楽器</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>滋賀大学</p></div>
+                        <div class="companys table1">臼井国産産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>東京理科大学大学院</p></div>
+                        <div class="companys table2">日本信号、日立製作所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>鹿児島大学大学院</p></div>
+                        <div class="companys table1">長谷川香料</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>徳島大学</p></div>
+                        <div class="companys table2">堀場製作所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>武蔵野大学</p></div>
+                        <div class="companys table1">セーレン、ニチアス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>メーカー</p></div>
+                        <div class="university table2"><p>八戸工業大学</p></div>
+                        <div class="companys table2">日本原燃</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>メーカー</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">ENEOSグローブエナジー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>インフラ</p></div>
+                        <div class="university table2"><p>東京理科大学</p></div>
+                        <div class="companys table2">東京電力、東京パワーテクノロジー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>インフラ</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">東京電力、関電エネルギーソリューション、レイズネクスト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>インフラ</p></div>
+                        <div class="university table2"><p>國學院大学</p></div>
+                        <div class="companys table2">東急パワーサプライ、TOKAI HD</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>インフラ</p></div>
+                        <div class="university table1"><p>兵庫県立大学</p></div>
+                        <div class="companys table1">大鉄工業、スピンドル、NTTインフラネット</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>インフラ</p></div>
+                        <div class="university table2"><p>桃山学院大学</p></div>
+                        <div class="companys table2">関西電力</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>インフラ</p></div>
+                        <div class="university table1"><p>名城大学</p></div>
+                        <div class="companys table1">エコスタイル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>インフラ</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">関西電力、関西ビジネスインフォメーション、きんでん</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>農業、林業、水産、畜産</p></div>
+                        <div class="university table1"><p>京都橘大学</p></div>
+                        <div class="companys table1">花巻農業協同組合</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">アサヒビール</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>信州大学大学院</p></div>
+                        <div class="companys table1">カゴメ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>静岡県立大学</p></div>
+                        <div class="companys table2">ニチレイ、不二家、ロックフィールド、日本ハム食品、日本ハムファクトリー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>筑紫女学園大学</p></div>
+                        <div class="companys table1">ベストアメニティ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">エームサービス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">スシロー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>徳島大学</p></div>
+                        <div class="companys table2">明治フレッシュネットワーク、アンデルセン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>北里大学</p></div>
+                        <div class="companys table1">武蔵野グループ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>北里大学大学院</p></div>
+                        <div class="companys table2">日本マクドナルド</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">山﨑製パン、ギンビス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>東海大学</p></div>
+                        <div class="companys table2">ヴィノスやまざき、サイゼリア、日本酒類販売</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>神戸大学大学院</p></div>
+                        <div class="companys table1">MCC食品</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">カナオカホールディングス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">中村屋</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>摂南大学</p></div>
+                        <div class="companys table2">丸大食品、ブルボン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>同志社大学</p></div>
+                        <div class="companys table1">山崎製パン、日清製粉</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>國學院大学</p></div>
+                        <div class="companys table2">日本食研、プレナス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>ノートルダム清心女子大</p></div>
+                        <div class="companys table1">オタフクソース、日本食研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">森永乳業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">日本食研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">プリマハム、山崎製パン、コカコーラボトラーズジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>北里大学大学院</p></div>
+                        <div class="companys table1">マリンフーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>鹿児島大学大学院</p></div>
+                        <div class="companys table2">アサヒグループ、伊勢角麦酒、日本食研、Ｙマーケットブルーイング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>食品・外食</p></div>
+                        <div class="university table1"><p>鹿児島大学大学院</p></div>
+                        <div class="companys table1">三和酒造</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>食品・外食</p></div>
+                        <div class="university table2"><p>亜細亜大学</p></div>
+                        <div class="companys table2">九鬼産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>日用品メーカー</p></div>
+                        <div class="university table1"><p>関西大学大学院</p></div>
+                        <div class="companys table1">花王</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>日用品メーカー</p></div>
+                        <div class="university table2"><p>明治学院大学</p></div>
+                        <div class="companys table2">ライオン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アパレルメーカー</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">ファーストリテイリング、東京ベース</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>アパレルメーカー</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">ファーストリテイリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アパレルメーカー</p></div>
+                        <div class="university table1"><p>関西大学</p></div>
+                        <div class="companys table1">ワールド</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>アパレルメーカー</p></div>
+                        <div class="university table2"><p>立命館大学</p></div>
+                        <div class="companys table2">由利</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アパレルメーカー</p></div>
+                        <div class="university table1"><p>明治学院大学</p></div>
+                        <div class="companys table1">ファーストリテイリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>アパレルメーカー</p></div>
+                        <div class="university table2"><p>山口大学</p></div>
+                        <div class="companys table2">ファーストリテイリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>アパレルメーカー</p></div>
+                        <div class="university table1"><p>東京女子大学</p></div>
+                        <div class="companys table1">ハニーズ、チュチュアンナ、オンワード樫山</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">アルトナー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>関西外国語大学</p></div>
+                        <div class="companys table1">マイナビ、アデコ、パーソルテンプスタッフ、ネオキャリア、JACリクルートメント</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">レバレジーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>筑紫女学園大学</p></div>
+                        <div class="companys table1">セントスタッフ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>長崎大学</p></div>
+                        <div class="companys table2">ワールドコンストラクション</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>東北学院大学</p></div>
+                        <div class="companys table1">日研トータルソーシング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>奈良女子大学大学院</p></div>
+                        <div class="companys table2">エウレカ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">日研トータルソーシング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>公立鳥取環境大学</p></div>
+                        <div class="companys table2">夢真</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">アドソル日進</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>上智大学</p></div>
+                        <div class="companys table2">リンクインテラック、クイック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>徳島大学</p></div>
+                        <div class="companys table1">トラスト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">マイナビ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>流通経済大学</p></div>
+                        <div class="companys table1">ワールドインテック、スタッフサービス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>北里大学</p></div>
+                        <div class="companys table2">アルプス技研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>津田塾大学</p></div>
+                        <div class="companys table1">アズライト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>同志社大学</p></div>
+                        <div class="companys table2">レバレジーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>武蔵大学</p></div>
+                        <div class="companys table1">ワールドインテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>甲南大学</p></div>
+                        <div class="companys table2">パーソルエクセル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>千葉大学</p></div>
+                        <div class="companys table1">ネオキャリア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>甲南大学</p></div>
+                        <div class="companys table2">アデコ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>武蔵大学</p></div>
+                        <div class="companys table1">リベル</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>明治薬科大学</p></div>
+                        <div class="companys table2">ワールドインテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>東京都立大学</p></div>
+                        <div class="companys table1">Visional</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">ネオキャリア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">日研トータルソーシング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>獨協大学</p></div>
+                        <div class="companys table2">日研トータルソーシング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">パーソルエクセルHRパートナーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">じょぶれい</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">ヒューマンリソシア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>東海大学</p></div>
+                        <div class="companys table2">エムアンドアール</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>青山学院大学</p></div>
+                        <div class="companys table1">グッドワークコミュニケーションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>関西大学</p></div>
+                        <div class="companys table2">レバレジーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>北里大学大学院</p></div>
+                        <div class="companys table1">日研トータルソーシング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>京都産業大学</p></div>
+                        <div class="companys table2">EVAND</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>関西大学</p></div>
+                        <div class="companys table1">トライト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>人材</p></div>
+                        <div class="university table2"><p>名城大学</p></div>
+                        <div class="companys table2">テクノプロ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>人材</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">キャムコムグループ、パーソルキャリア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>教育</p></div>
+                        <div class="university table2"><p>甲南大学</p></div>
+                        <div class="companys table2">アイドゥー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>教育</p></div>
+                        <div class="university table1"><p>同志社女子大学</p></div>
+                        <div class="companys table1">ECC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>教育</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">スプリクス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>教育</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">親心アップソリューションズ、中萬学院、市進</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>教育</p></div>
+                        <div class="university table2"><p>広島大学</p></div>
+                        <div class="companys table2">ヒューマンアカデミー、栄光</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>教育</p></div>
+                        <div class="university table1"><p>秋田大学</p></div>
+                        <div class="companys table1">総合資格</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>静岡大学</p></div>
+                        <div class="companys table2">富士ソフト、インテック、SI＆C</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>獨協大学</p></div>
+                        <div class="companys table1">Earth Technology</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">レカム、トランス・コスモス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>東洋大学</p></div>
+                        <div class="companys table1">オービックビジネスコンサルタント、アルティウスリンク</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>関西大学</p></div>
+                        <div class="companys table2">トランス・コスモス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">トランス・コスモス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>名城大学</p></div>
+                        <div class="companys table2">パーソルビジネスプロセスデザイン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>駒澤大学</p></div>
+                        <div class="companys table1">キンドリル・ジャパン2名</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">ドコモCS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>北海道教育大学</p></div>
+                        <div class="companys table1">京セラコミュニケーションシステム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>岡山大学</p></div>
+                        <div class="companys table2">NECネッツエスアイ、いえらぶ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>東北学院大学</p></div>
+                        <div class="companys table1">富士ソフトサービスビューロ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>奈良女子大学大学院</p></div>
+                        <div class="companys table2">大栄システム、テクノプロ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>愛知学院大学</p></div>
+                        <div class="companys table1">大塚商会</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">オープンアップ、東邦システムズ、TDC、AAST</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">アドソル日進</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>東海大学</p></div>
+                        <div class="companys table2">jinjer</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>名桜大学</p></div>
+                        <div class="companys table1">アウトソーシング、琉球ネットワークサービス、EandM、パートナー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>清泉女子大学</p></div>
+                        <div class="companys table2">日本テレメッセージ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>京都美術工芸大学</p></div>
+                        <div class="companys table1">日立システムズフィールドサービス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>西南学院大学</p></div>
+                        <div class="companys table2">日立ソリューション西日本</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>立教大学</p></div>
+                        <div class="companys table1">K&G、SMSデータテック、エクセルシステムプロダクト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>立正大学</p></div>
+                        <div class="companys table2">キャノンITソリューションズ、ラキール</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>北里大学</p></div>
+                        <div class="companys table1">プログレス・テクノロジーズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>神奈川大学</p></div>
+                        <div class="companys table2">ハイマックス、パーソルクロステクノロジー、アイネット</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>長浜バイオ大学</p></div>
+                        <div class="companys table1">SHIFT</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>工学院大学大学院</p></div>
+                        <div class="companys table2">JFEシステムズ、日立システムズ、NRIネットコム、NECネッツエスアイ、NTTデータフィナンシャルテクノロジー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>甲南大学</p></div>
+                        <div class="companys table1">NTTデータ グローバルソリューションズ、エクサ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>学習院大学</p></div>
+                        <div class="companys table2">SI＆C、第一生命テクノロス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">日立システムズ、INTLOOP、DTS、SHIFT、ダイナム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>東洋大学</p></div>
+                        <div class="companys table2">インガルス、柊ソフト開発</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>京都大学</p></div>
+                        <div class="companys table1">NEC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">NEC、NTT東日本</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">富士フイルムビジネスイノベーションジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>千葉大学</p></div>
+                        <div class="companys table2">NTTドコモ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>兵庫県立大学</p></div>
+                        <div class="companys table1">デンロコーポレーション、オプテージ、ソフトウェアサービス、マルチテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">日本テレメッセージ、ヒューテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>武蔵大学</p></div>
+                        <div class="companys table1">日立ソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>十文字学園女子大学</p></div>
+                        <div class="companys table2">富士ソフト、JBS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>関西学院大学</p></div>
+                        <div class="companys table1">DTS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>大阪大学</p></div>
+                        <div class="companys table2">かんぽシステムソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>千葉大学</p></div>
+                        <div class="companys table1">ドコモCS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>亜細亜大学</p></div>
+                        <div class="companys table2">システムシェアード、コムテック、クラウドワークス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>東京電機大学</p></div>
+                        <div class="companys table1">SHIFT</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>愛知大学</p></div>
+                        <div class="companys table2">コムテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>龍谷大学</p></div>
+                        <div class="companys table1">オムロンフィールドエンジニアリング</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>慶應義塾大学</p></div>
+                        <div class="companys table2">富士フィルムビジネスイノベーションジャパン</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>明治大学</p></div>
+                        <div class="companys table1">NECソリューションイノベータ、NTTデータSMS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>京都産業大学</p></div>
+                        <div class="companys table2">エクストランス、プロアシスト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">TIS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">システナ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>山口大学</p></div>
+                        <div class="companys table1">KDDI</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>上智大学</p></div>
+                        <div class="companys table2">ダイワボウ情報システム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">TKC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>明治学院大学</p></div>
+                        <div class="companys table2">アーバンコーポレーション、アイスター、システナ、TDKソフト</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>東京都立大学</p></div>
+                        <div class="companys table1">キャノンITソリューションズ、三菱総研DCS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>関西外国語大学</p></div>
+                        <div class="companys table2">Earth Technology、クレスコジェイキューブ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>中央大学</p></div>
+                        <div class="companys table1">パルテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>龍谷大学</p></div>
+                        <div class="companys table2">東邦システムサイエンス、日立システムズフィールドサービス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>大谷大学</p></div>
+                        <div class="companys table1">ワールドビジネスセンター、GRIP’S</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">SATORI</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">NTTデータ関西</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">富士フイルムビジネスイノベーションジャパン、日立ソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">ドコモCS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>人間環境大学</p></div>
+                        <div class="companys table2">ナビオコンピューター</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>日本女子大学</p></div>
+                        <div class="companys table1">電通総研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>神奈川大学</p></div>
+                        <div class="companys table2">H.R.I、Jinjer、INTEC</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>芝浦工業大学</p></div>
+                        <div class="companys table1">アドソル日進、共同コンピュータ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>立教大学</p></div>
+                        <div class="companys table2">TIS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>帝京大学</p></div>
+                        <div class="companys table1">日研ソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>東北芸術工科大学</p></div>
+                        <div class="companys table2">トークネット</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">モバイルコミニュケーションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>長崎県立大学</p></div>
+                        <div class="companys table2">アイエックス・ナレッジ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>愛知工業大学</p></div>
+                        <div class="companys table1">パーソルクロステクノロジー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>関西学院大学</p></div>
+                        <div class="companys table2">紀陽情報システム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>順天堂大学</p></div>
+                        <div class="companys table1">ドコモサポート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>共立女子大学</p></div>
+                        <div class="companys table2">TISソリューションリンク </div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">ソフトクリエイトホールディングス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>明治大学</p></div>
+                        <div class="companys table2">スミセイ情報システム</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>愛知学院大学</p></div>
+                        <div class="companys table1">ヤマハモーターソリューション、静銀ITソリューション</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>愛知学院大学</p></div>
+                        <div class="companys table1">シーアイエス、アウトソーシングテクノロジー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">東計電算</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>青山学院大学</p></div>
+                        <div class="companys table1">クレオ、都築電気</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>名城大学</p></div>
+                        <div class="companys table2">グランバレイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>山口県立大学</p></div>
+                        <div class="companys table1">コア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>千葉大学</p></div>
+                        <div class="companys table2">コムチュア</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>立命館大学</p></div>
+                        <div class="companys table1">日本IBM</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>明治学院大学</p></div>
+                        <div class="companys table2">マテリアル、メンバーズ、トランス・コスモス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>香川大学大学院</p></div>
+                        <div class="companys table1">NEC通信システムズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>成蹊大学</p></div>
+                        <div class="companys table2">日立ソリューションズ、丸紅I-DIGIOホールディングス、アルテニカ、ホープス、キヤノンITソリューションズ、三菱電機インフォメーションシステムズ、インテック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>南山大学</p></div>
+                        <div class="companys table1">中電配電サポート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>名城大学</p></div>
+                        <div class="companys table2">三菱電機ITソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>神奈川大学</p></div>
+                        <div class="companys table1">CTCテクノロジー、NTTデータルウィーブ、丸紅ITソリューションズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>日本女子大学</p></div>
+                        <div class="companys table2">アルテニカ、YSLソリューション、ハイマックス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>成城大学</p></div>
+                        <div class="companys table1">日本システム技術、NTTデータMHIシステムズ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>亜細亜大学</p></div>
+                        <div class="companys table2">GCストーリー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>IT・通信・情報処理</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">コンピューターマネジメント</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>IT・通信・情報処理</p></div>
+                        <div class="university table2"><p>神戸学院大学</p></div>
+                        <div class="companys table2">ウィルオブ・ワーク、インターネットイニシアチブ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>東京理科大学</p></div>
+                        <div class="companys table1">東京地下鉄</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">日本航空、全日空、</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>日本大学</p></div>
+                        <div class="companys table1">国際自動車</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>同志社女子大学</p></div>
+                        <div class="companys table2">名門大洋フェリー、スターフライヤー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">JR西日本</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>千葉大学</p></div>
+                        <div class="companys table2">JR東海</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>京都外国語大学</p></div>
+                        <div class="companys table1">西濃運輸株式会社、丸和運輸機関</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">AirDo、Kスカイ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>藤女子大学</p></div>
+                        <div class="companys table1">JR北海道</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>青山学院大学</p></div>
+                        <div class="companys table2">成田エアポートサービス、東京メトロ、NEXCO中日本</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">近畿日本鉄道、日本郵便</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table2"><p>東京農業大学</p></div>
+                        <div class="companys table2">北海道エアポート</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>陸運・鉄道・航空</p></div>
+                        <div class="university table1"><p>東京経済大学</p></div>
+                        <div class="companys table1">小田急電鉄、JR西日本</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>福井大学</p></div>
+                        <div class="companys table2">ラニイ福井貨物</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>津田塾大学</p></div>
+                        <div class="companys table1">パルタック</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>駒澤大学</p></div>
+                        <div class="companys table2">日本通運</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>神奈川大学</p></div>
+                        <div class="companys table1">KRS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>日本大学</p></div>
+                        <div class="companys table2">日本交通</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>産業能率大学</p></div>
+                        <div class="companys table1">日本交通、国際自動車、日の丸交通</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>青山学院大学</p></div>
+                        <div class="companys table2">日本通運</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>早稲田大学</p></div>
+                        <div class="companys table1">日鉄物流</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>中央大学</p></div>
+                        <div class="companys table2">加藤産業、三井物産物流</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>共立女子大学</p></div>
+                        <div class="companys table1">三井倉庫</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>桜美林大学</p></div>
+                        <div class="companys table2">NRS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>関西大学</p></div>
+                        <div class="companys table1">三井倉庫ロジスティクス</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>物流</p></div>
+                        <div class="university table2"><p>南山大学</p></div>
+                        <div class="companys table2">ダイセーエブリー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>物流</p></div>
+                        <div class="university table1"><p>近畿大学</p></div>
+                        <div class="companys table1">センコー、国際空港上屋、山九、佐川グローバルロジスティクス、セイノースーパーエクスプレス、ファイズ・オペレーション</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>鉄鋼、非鉄金属</p></div>
+                        <div class="university table2"><p>早稲田大学</p></div>
+                        <div class="companys table2">日本軽金属、DOWAホールディングス、日本製鋼所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>鉄鋼、非鉄金属</p></div>
+                        <div class="university table1"><p>大妻女子大学</p></div>
+                        <div class="companys table1">住友金属鉱山</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>貴金属・リサイクル</p></div>
+                        <div class="university table2"><p>信州大学大学院</p></div>
+                        <div class="companys table2">松田産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>貴金属・リサイクル</p></div>
+                        <div class="university table1"><p>九州大学</p></div>
+                        <div class="companys table1">いーふらん</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>貴金属・リサイクル</p></div>
+                        <div class="university table2"><p>東京都立大学</p></div>
+                        <div class="companys table2">松田産業</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>貴金属・リサイクル</p></div>
+                        <div class="university table1"><p>宮城学院女子大学</p></div>
+                        <div class="companys table1">エンパワー</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>警備・防犯</p></div>
+                        <div class="university table2"><p>昭和女子大学</p></div>
+                        <div class="companys table2">東急セキュリティ</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>警備・防犯</p></div>
+                        <div class="university table1"><p>中京大学</p></div>
+                        <div class="companys table1">ALSOK</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>警備・防犯</p></div>
+                        <div class="university table2"><p>近畿大学</p></div>
+                        <div class="companys table2">JSS</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>警備・防犯</p></div>
+                        <div class="university table1"><p>法政大学</p></div>
+                        <div class="companys table1">ALSOK</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>警備・防犯</p></div>
+                        <div class="university table2"><p>長崎県立大学</p></div>
+                        <div class="companys table2">にしけい、全日警</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>官公庁・公社・団体</p></div>
+                        <div class="university table1"><p>学習院大学</p></div>
+                        <div class="companys table1">社会福祉法人佑啓会</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>官公庁・公社・団体</p></div>
+                        <div class="university table2"><p>法政大学</p></div>
+                        <div class="companys table2">佐倉市役所、成田市役所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>官公庁・公社・団体</p></div>
+                        <div class="university table1"><p>京都産業大学</p></div>
+                        <div class="companys table1">日本年金機構、京都市役所</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>その他</p></div>
+                        <div class="university table2"><p>法政大学</p></div>
+                        <div class="companys table2">内山鑑定株式会社</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table1"><p>その他</p></div>
+                        <div class="university table1"><p>近畿大学大学院</p></div>
+                        <div class="companys table1">kobelco技研</div>
+                      </div>
+                      <div class="company-row">
+                        <div class="industry table2"><p>その他</p></div>
+                        <div class="university table2"><p>福岡大学</p></div>
+                        <div class="companys table2">国際福祉大学・高邦会グループ</div>
+                      </div>
+
+                      <div class="company-row">
+                        <div class="industry table1"><p>その他</p></div>
+                        <div class="university table1"><p>南山大学</p></div>
+                        <div class="companys table1">NECビジネスインテリジェンス</div>
+                      </div>
+
+                      <div class="company-row">
+                        <div class="industry table2"><p>その他</p></div>
+                        <div class="university table2"><p>東京農業大学</p></div>
+                        <div class="companys table2">イカリ消毒</div>
+                      </div>
+
+                    </div>
+                  </div>
+
+
                   <div class="aco-block"><!-- 初期オープン　open -->
                   <div class="aco-content q content-q q-down">
                       <div class="aco-content-right">
