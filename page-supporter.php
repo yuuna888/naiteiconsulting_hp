@@ -517,11 +517,57 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter45-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter45.png" alt="">
             <div class="supporter-name">
                 <p>今野 美幸</p>
+                <div class="plus-icon"></div>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter46-details.png">
+          <div class="supporterimg">
+            <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter46.png" alt="">
+            <div class="supporter-name">
+                <p>河野 木の実</p>
+                <div class="plus-icon"></div>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter47-details.png">
+          <div class="supporterimg">
+            <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter47.png" alt="">
+            <div class="supporter-name">
+                <p>川崎 雄一</p>
+                <div class="plus-icon"></div>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter48-details.png">
+          <div class="supporterimg">
+            <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter48.png" alt="">
+            <div class="supporter-name">
+                <p>谷 亮太</p>
+                <div class="plus-icon"></div>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter49-details.png">
+          <div class="supporterimg">
+            <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter49.png" alt="">
+            <div class="supporter-name">
+                <p>酒井 糸弥</p>
+                <div class="plus-icon"></div>
+            </div>
+          </div>
+        </a>
+        <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter50-details.png">
+          <div class="supporterimg">
+            <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter50.png" alt="">
+            <div class="supporter-name">
+                <p>今 風太</p>
                 <div class="plus-icon"></div>
             </div>
           </div>
