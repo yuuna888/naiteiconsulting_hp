@@ -16,21 +16,21 @@
             <a href="<?php echo esc_url( get_site_url().'/support-details' ); ?>">サポート詳細</a>
           </li>
           <div class="line"></div>
-          <li>
-            <a href="<?php echo esc_url( get_site_url().'/course' ); ?>">コース紹介</a>
 
+          <?php if ( false ) : ?>
+            <li>
+            <a href="<?php echo esc_url( home_url('/course') ); ?>">コース紹介</a>
           </li>
           <div class="line"></div>
-          <li>
-            <a href="<?php echo esc_url( get_site_url().'/supporter' ); ?>">サポーター紹介</a>
+          <?php endif; ?>
 
+          <li>
+          <a href="<?php echo esc_url( get_site_url().'/supporter' ); ?>">サポーター紹介</a>
           </li>
           <div class="line"></div>
           <li>
             <a href="<?php echo esc_url( get_site_url().'/achievements' ); ?>">内定体験談</a>
-
           </li>
-
           <li class="custom-button-forparents">
             <a href="<?php echo esc_url( get_site_url().'/for-parents' ); ?>" class="custom-button">
               <span class="button-inner">保護者の方へ</span>
@@ -60,7 +60,11 @@
       <ul>
         <li><a href="<?php echo esc_url( get_site_url().'/job-offer-consulting' ); ?>">内定コンサルとは</a></li>
         <li><a href="<?php echo esc_url( get_site_url().'/support-details' ); ?>">サポート詳細</a></li>
-        <li><a href="<?php echo esc_url( get_site_url().'/course' ); ?>">コース紹介</a></li>
+
+        <?php if ( false ) : ?>
+          <li><a href="<?php echo esc_url( get_site_url().'/course' ); ?>">コース紹介</a></li>
+        <?php endif; ?>
+
         <li><a href="<?php echo esc_url( get_site_url().'/supporter' ); ?>">サポーター紹介</a></li>
         <li><a href="<?php echo esc_url( get_site_url().'/achievements' ); ?>">内定体験談</a></li>
       </ul>

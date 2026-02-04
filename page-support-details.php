@@ -581,11 +581,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </p>
         <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQAB9hojsqAwL5Elx00JJD1KFAQ59cX3bh_QNsEQ4HWQAvdjmzIIuBcoOYJqOmFSbQtOhlrXjxUSKsb/pubhtml" class="section-ss-title-top spreadsheet"></iframe>
       </div>
+      <div class="free-consultation-margin"></div>
      </section>
 
 
-
-     <section class="gradation top-zero">
+     <?php if ( false ) : ?>
+      <section class="gradation top-zero">
       <div class="band-title section-title">
         <div style="display: flex; justify-content: center;">
           <h2>短期対策<span class="small">から、<br class="sp"></span>超長期対策<span class="small">まで対応</span></h2>
@@ -766,9 +767,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="sub-button">
           <a href="<?php echo esc_url( get_site_url().'/course#course-list-section' ); ?>">コースごとの詳細を見る</a>
         </div>
+        
       </div>
       <div class="free-consultation-margin"></div>
      </section>
+     <?php endif; ?>
 
 
     <?php get_template_part('freeconsultation'); ?>

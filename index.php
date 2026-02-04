@@ -293,7 +293,7 @@
             </p>
 
             <div class="sub-button">
-              <a href="#support-section">サポート詳細を見る</a>
+              <a href="<?php echo esc_url( get_site_url().'/support-details' ); ?>">サポート詳細を見る</a>
             </div>
           </div>
           <div class="free-consultation-margin"></div>
@@ -424,10 +424,11 @@
           <div class="sub-button">
             <a href="<?php echo esc_url( get_site_url().'/achievements' ); ?>">内定実績を見る</a>
           </div>
+          <div class="free-consultation-margin"></div>
         </section>
 
 
-
+        <?php if ( false ) : ?>
         <section class="gradation  top-zero" id="support-section">
           <div class="band-title section-title">
             <div style="display: flex; justify-content: center;">
@@ -604,14 +605,13 @@
                 </div>
               </div>
             </div>
-
             <div class="sub-button">
               <a href="<?php echo esc_url( get_site_url().'/course' ); ?>">コース紹介へ</a>
             </div>
           </div>
           <div class="free-consultation-margin"></div>
         </section>
-
+        <?php endif; ?>
 
 
         <section class="free-consultation consultation-for-parents">
