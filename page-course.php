@@ -24,6 +24,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   />
     <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() ); ?>/css/style.css">
     <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri() ); ?>/course/css/style.css">
+    <meta name="robots" content="noindex">
     <?php wp_head(); ?>
 </head>
 
