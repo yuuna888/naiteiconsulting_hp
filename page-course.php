@@ -11,7 +11,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="内定コンサルでは、サポート期間や面談回数・添削回数など、就活生一人一人に合わせてカスタマイズ可能です。コース例｜【短期コース】サポート期間：3ヶ月、基本料金：¥161,500、面談頻度：月3回【中期コース】サポート期間：6ヶ月、基本料金：¥231,500、面談頻度：月3回〜週1回、【長期コース】サポート期間：無期限、基本料金：¥371,500、面談頻度：週1回程度｜サポート対応範囲｜【自己分析・企業分析】受講生の経験の洗い出しから合う業界/企業の選定・提案、【ES】経験をヒアリングし強みを明確化させ、無制限で直接添削・修正、【面接】各企業を想定した頻出の質問から企業特有の質問まで網羅した実践的な模擬面接">
     <title>コース紹介 - 【公式】内定コンサル</title>
     <meta property="og:url" content="https://naitei-consulting.com/course/">
     <meta property="og:title" content="コース紹介 - 【公式】内定コンサル">
