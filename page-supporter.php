@@ -390,6 +390,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+
+        <!-- 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter31-details.png">
           <div class="supporterimg">
             <img src="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter31.png" alt="">
@@ -399,6 +401,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
           </div>
         </a>
+        -->
 
 
         <a href="#" class="open-image-modal" data-image="<?php echo esc_url(get_template_directory_uri() ); ?>/img/supporter33-details.png">
